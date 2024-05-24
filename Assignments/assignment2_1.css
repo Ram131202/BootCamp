@@ -1,0 +1,23 @@
+#name{
+    color: dodgerblue;
+    font-style: italic;
+    font-size:xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    border : 0.5px solid blue;
+    margin: 20px;
+    padding: 10px;
+    .foods{
+        color: burlywood;
+        font-style: inherit;
+    }
+    li{
+        font-style: italic;
+        font-weight: bold;
+    }
+}

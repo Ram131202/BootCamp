@@ -1,0 +1,53 @@
+#title{
+    border: 3px solid aqua;
+    border-width: auto;
+    border-radius: 20px 50px 20px;
+    color: aqua;
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+}
+#navbar{
+    border: 1px solid black;
+    border-radius: 50px;
+    border-style: groove;
+    margin: 5px;
+    padding: 10px;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    a{
+        margin: 7px;
+    }
+    #search{
+        color: grey;
+        border:0.5px solid skyblue;
+        border-radius: 50px;
+        padding-right: 120px;
+        padding-left: 15px;
+        text-align: left;
+        margin: 10px;
+    }
+}
+section{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin: 10px;
+    h2{
+        color:rgb(6, 94, 123);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .content{
+        color: rgb(63, 4, 88);
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: justify;
+    }
+}
+footer{
+    margin-top: 150px;
+    margin-bottom: 30px;
+    color:green;
+    text-align: center;
+}

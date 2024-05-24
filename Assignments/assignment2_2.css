@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+#heading{
+    text-align: center;
+    color: aquamarine;
+    font-style: italic;
+    border:1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    padding: auto;
+}
+.para{
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
